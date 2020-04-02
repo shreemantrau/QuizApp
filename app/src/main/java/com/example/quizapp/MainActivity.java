@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             user_score=savedInstanceState.getInt(SCORE_KEY);
             mQuizIndex=savedInstanceState.getInt(INDEX_KEY);
         }
-       // else is not required because its already set to 0
+       // else is not required because its already set to 0!
 //        else {
 //            user_score=0;
 //            mQuizIndex=0;
